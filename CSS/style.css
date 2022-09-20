@@ -268,7 +268,7 @@ nav .menue-icon {
 
 /* Start Home */
 .home {
-    background-image: url(/Images/isai-ramos-_3SFFsWqCVg-unsplash\ \(1\).jpg);
+    background-image: url(Images/isai-ramos-_3SFFsWqCVg-unsplash\ \(1\).jpg);
     background-size: cover;
     height: 500px;
     margin-top: 10px;
@@ -426,7 +426,7 @@ nav .menue-icon {
 /* End Services */
 /* Start Break1 */
 .break1 {
-    background-image: url(/Images/rami-al-zayat-w33-zg-dNL4-unsplash.jpg);
+    background-image: url(Images/rami-al-zayat-w33-zg-dNL4-unsplash.jpg);
     background-size: cover;
     position: relative;
     height: 400px;
@@ -451,7 +451,7 @@ nav .menue-icon {
 }
 
 .break1 .cover .card ul {
-    list-style-image: url(/Images/tv.png);
+    list-style-image: url(Images/tv.png);
     display: flex;
     flex-direction: column;
     justify-content: center;
