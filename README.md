@@ -1,4 +1,4 @@
-![Banner](![image](https://user-images.githubusercontent.com/78245792/229415790-7201cd03-2ee1-4c8e-b924-0e0a4b20c260.png))
+![Banner](https://github.com/abdullah-muhammedd/banners/blob/master/Kasper%20Banner.gif?raw=true)
 
 # Kasper 💸
 ![](https://img.shields.io/tokei/lines/github/abdullah-muhammedd/Kasper-Portfolio-Template)
